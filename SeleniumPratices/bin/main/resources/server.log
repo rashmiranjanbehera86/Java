@@ -1,0 +1,6 @@
+Time: 2016-03-14 11:50:40,510 Class: main.Test20 Package: main Message: Username is exist Test case passed 
+Time: 2016-03-14 11:51:02,002 Class: main.Test20 Package: main Message: Password is exist Test case passed 
+Time: 2016-03-14 11:52:11,047 Class: main.Test20 Package: main Message: Username is exist Test case passed 
+Time: 2016-03-14 11:52:43,690 Class: main.Test20 Package: main Message: Password is exist Test case passed 
+Time: 2016-03-14 11:53:19,707 Class: main.Test20 Package: main Message: Username is exist Test case passed 
+Time: 2016-03-14 11:53:42,398 Class: main.Test20 Package: main Message: Password is not exist Test case passed 

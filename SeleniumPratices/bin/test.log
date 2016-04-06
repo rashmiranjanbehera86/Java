@@ -1,0 +1,6 @@
+Date: 2016-03-15 12:29:15,041 Class: main.Test24 Package: main Message: The total number of emails: 50 
+Date: 2016-03-15 12:29:15,043 Class: main.Test24 Package: main Message: The total number of un-read emails: 50 
+Date: 2016-03-15 12:29:15,044 Class: main.Test24 Package: main Message: The total number of read emails: 0 
+Date: 2016-03-15 12:34:07,827 Class: main.Test24 Package: main Message: The total number of emails: 50 
+Date: 2016-03-15 12:34:07,829 Class: main.Test24 Package: main Message: The total number of un-read emails: 47 
+Date: 2016-03-15 12:34:07,830 Class: main.Test24 Package: main Message: The total number of read emails: 3 
