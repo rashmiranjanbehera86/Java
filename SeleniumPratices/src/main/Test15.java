@@ -27,10 +27,10 @@ public class Test15 {
 		obj.manage().timeouts().implicitlyWait(5000, TimeUnit.MILLISECONDS);
 
 		obj.findElement(By.xpath(".//*[@id='Email']")).sendKeys(
-				"rashmiranjan.b@indianeagle.com");
+				"XXXXXXXXXXXXXXXXX");
 		obj.findElement(By.xpath(".//*[@id='next']")).click();
 		Thread.sleep(5000);
-		obj.findElement(By.xpath(".//*[@id='Passwd']")).sendKeys("RqLNj2=G");
+		obj.findElement(By.xpath(".//*[@id='Passwd']")).sendKeys("XXXXXXX");
 		obj.findElement(By.xpath(".//*[@id='signIn']")).click();
 		Thread.sleep(5000);
 		obj.findElement(By.xpath(".//*[@id='gbwa']/div[1]/a")).click();
