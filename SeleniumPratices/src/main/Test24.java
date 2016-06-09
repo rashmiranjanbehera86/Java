@@ -29,11 +29,11 @@ public class Test24 {
 		obj.manage().window().maximize();
 		obj.get("https://accounts.google.com/ServiceLogin");
 		obj.manage().timeouts().implicitlyWait(5000, TimeUnit.MILLISECONDS);
-		obj.findElement(By.id("Email")).sendKeys("rashmiranjan.yanasoftware");
+		obj.findElement(By.id("Email")).sendKeys("XXXXXXXXXXXXXXXXXX");
 		Thread.sleep(5000);
 		obj.findElement(By.id("next")).click();
 		Thread.sleep(5000);
-		obj.findElement(By.id("Passwd")).sendKeys("yana1234");
+		obj.findElement(By.id("Passwd")).sendKeys("XXXXXXXXXX");
 		Thread.sleep(5000);
 		obj.findElement(By.id("signIn")).click();
 		Thread.sleep(5000);
